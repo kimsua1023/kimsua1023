@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
-
 ## 김수아 · Backend Developer
 
-백엔드를 공부 중인 학생입니다
+백엔드를 공부 중인 학생 개발자입니다
+
+<br/>
+
+<img src="cat-walk.svg" width="100%" />
 
 <br/>
 
@@ -13,26 +15,6 @@
 </div>
 
 ---
-<svg width="200" height="100" viewBox="0 0 200 100">
-  <!-- 고양이 몸통 단순화 -->
-  <rect id="cat" x="0" y="30" width="60" height="40" rx="10" fill="#8B4513">
-    <animateTransform 
-      attributeName="transform" 
-      type="translate" 
-      values="0 0; 140 0; 0 0" 
-      dur="4s" 
-      repeatCount="indefinite" />
-  </rect>
-  <!-- 다리 움직임 표현 -->
-  <rect x="10" y="70" width="10" height="20" fill="#5D2E0A">
-    <animateTransform 
-      attributeName="transform" 
-      type="rotate" 
-      values="-20 15 70; 20 15 70; -20 15 70" 
-      dur="0.5s" 
-      repeatCount="indefinite" />
-  </rect>
-</svg>
 
 ## 🙋‍♀️ 소개
 
@@ -111,10 +93,4 @@
 ![Activity Light](https://github-readme-activity-graph.vercel.app/graph?username=kimsua1023&theme=minimal&hide_border=true&radius=12#gh-light-mode-only)
 ![Activity Dark](https://github-readme-activity-graph.vercel.app/graph?username=kimsua1023&theme=github-compact&hide_border=true&radius=12#gh-dark-mode-only)
 
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="100" />
 </div>
