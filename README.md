@@ -1,112 +1,104 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%2C%20I'm%20Sua!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%F0%9F%90%B1&descAlignY=55&descAlign=50" />
+# 안녕하세요, 김수아입니다 🐾
 
-</div>
+백엔드를 공부 중인 학생 개발자입니다
 
-<div align="center">
-
-<a href="https://github.com/kimsua1023">
-  <img src="https://readme-typing-svg.demolab.com/?font=Pretendard&size=22&duration=3000&pause=1000&color=F7B5C9&center=true&vCenter=true&width=480&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%F0%9F%90%BE+%EA%B8%B0%EC%96%B5%EC%97%90+%EC%82%AC%EB%9D%BC%EC%A7%80%EB%8A%94+%EC%BD%94%EB%93%9C%EB%A5%BC+%EC%BD%94%EB%94%A9%ED%95%A9%EB%8B%88%EB%8B%A4;DB%EC%9D%B4%EB%9E%91+API%EB%A5%BC+%EC%82%AC%EB%9E%91%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EA%B9%80%EC%88%98%EC%95%84%EC%9E%85%EB%8B%88%EB%8B%A4;%EC%98%A4%EB%8A%98%EB%8F%84+%EC%BB%A4%EB%B0%8B+%ED%95%9C+%EC%9E%94%E2%98%95%EF%B8%8F+%EA%B0%9C%EB%B0%9C+%EC%A2%8B%EC%95%84%EC%9A%94" />
-</a>
-
-</div>
-
-&nbsp;
-
-## 🐾 About Me
-
-```
-🌱 Java / JavaScript 기반으로 백엔드를 공부하고 있어요
-🛠️ DB 설계와 API 만들기를 좋아해요
-🍀 사용자 경험을 생각하는 개발자가 되고 싶어요
-✏️ 오늘 배운 건 기록으로, 막힌 건 질문으로 남겨요
-```
-
-&nbsp;
-
-## 🧵 Tech Stack
-
-<div align="left">
-
-**Language**
 <br/>
-<img src="https://img.shields.io/badge/Java-FFD6E8?style=for-the-badge&logo=openjdk&logoColor=B5495B"/>
-<img src="https://img.shields.io/badge/JavaScript-FFF3B0?style=for-the-badge&logo=javascript&logoColor=665C00"/>
 
-**Frontend**
+<img src="https://readme-typing-svg.demolab.com/?font=Pretendard&size=18&duration=3000&pause=1000&color=6E9EBA&center=true&vCenter=true&width=520&lines=DB+설계와+API+개발을+좋아해요;Java%2C+Node.js+기반으로+백엔드를+공부해요;오늘도+한+줄씩,+꾸준히+성장하는+중이에요+☕" />
+
+<br/><br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=kimsua1023&style=flat-square&label=방문자&color=lightgrey)
+
+</div>
+
+---
+
+## 🙋‍♀️ 소개
+
+- 🌱 Java / Node.js 기반으로 백엔드를 공부하고 있어요
+- 🛠️ DB 설계와 API 개발을 좋아해요
+- 💡 사용자 경험을 생각하는 개발자가 되고 싶어요
+- 📝 오늘 배운 건 기록으로, 막힌 건 질문으로 남겨요
+
+---
+
+## 🧰 기술 스택
+
+**언어**
 <br/>
-<img src="https://img.shields.io/badge/React-D6E8FF?style=for-the-badge&logo=react&logoColor=2B5C9E"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 
-**Backend & DB**
+**프론트엔드**
 <br/>
-<img src="https://img.shields.io/badge/Node.js-D9F2D9?style=for-the-badge&logo=node.js&logoColor=2E6B2E"/>
-<img src="https://img.shields.io/badge/Express-E8E8E8?style=for-the-badge&logo=express&logoColor=4B4B4B"/>
-<img src="https://img.shields.io/badge/MySQL-E5D4FF?style=for-the-badge&logo=mysql&logoColor=5B3A9E"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 
-**Tools**
+**백엔드 & DB**
 <br/>
-<img src="https://img.shields.io/badge/Git-FFE0CC?style=for-the-badge&logo=git&logoColor=A85C00"/>
-<img src="https://img.shields.io/badge/GitHub-E8E8E8?style=for-the-badge&logo=github&logoColor=4B4B4B"/>
-<img src="https://img.shields.io/badge/Notion-D9D9D9?style=for-the-badge&logo=notion&logoColor=4B4B4B"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+`학습 중`
 
-</div>
+**도구**
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 
-&nbsp;
+---
 
-## 📌 Pinned Projects
+## 📌 프로젝트
 
-<div align="center">
+| 프로젝트 | 설명 | 기술 스택 |
+|:---:|:---|:---:|
+| [**GETIT**](https://github.com/kimsua1023/GETIT) | 학술동아리 과제 업로드 플랫폼 — 백엔드 | Node.js · MySQL |
+| [**react-GETIT**](https://github.com/kimsua1023/react-GETIT) | 학술동아리 과제 업로드 플랫폼 — 프론트엔드 | React |
+| [**Rolling\_paper\_BE**](https://github.com/kimsua1023/Rolling_paper_BE) | 익명 롤링페이퍼 웹 서비스 백엔드 | Node.js · Express · MySQL |
+| [**Java-Ideal-Type-World-Cup**](https://github.com/kimsua1023/Java-Ideal-Type-World-Cup) | 교수님 이상형 월드컵 — Java GUI + MySQL 구현 | Java · MySQL |
 
-<a href="https://github.com/kimsua1023/GETIT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimsua1023&repo=GETIT&theme=cobalt&border_radius=12&hide_border=true" />
-</a>
-<a href="https://github.com/kimsua1023/Rolling_paper_BE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimsua1023&repo=Rolling_paper_BE&theme=cobalt&border_radius=12&hide_border=true" />
-</a>
+---
 
-<a href="https://github.com/kimsua1023/react-GETIT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimsua1023&repo=react-GETIT&theme=cobalt&border_radius=12&hide_border=true" />
-</a>
-<a href="https://github.com/kimsua1023/Java-Ideal-Type-World-Cup">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimsua1023&repo=Java-Ideal-Type-World-Cup&theme=cobalt&border_radius=12&hide_border=true" />
-</a>
-
-</div>
-
-&nbsp;
-
-## 📊 GitHub Stats
+## 📊 GitHub 통계
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kimsua1023&show_icons=true&theme=cobalt&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsua1023&layout=compact&theme=cobalt&hide_border=true&border_radius=12" width="40%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kimsua1023&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kimsua1023&show_icons=true&theme=default&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" width="48%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsua1023&layout=compact&theme=github_dark&hide_border=true&border_radius=12" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsua1023&layout=compact&theme=default&hide_border=true&border_radius=12" width="40%" />
+</picture>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kimsua1023&theme=highcontrast&hide_border=true&border_radius=12" width="60%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=kimsua1023&theme=github-dark-blue&hide_border=true&border_radius=12" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimsua1023&theme=default&hide_border=true&border_radius=12" width="60%" />
+</picture>
 
 </div>
 
-&nbsp;
+---
 
-## 🐈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kimsua1023&theme=react-dark&hide_border=true&radius=12" width="90%"/>
-
-</div>
-
-&nbsp;
+## 🐈 커밋 그래프
 
 <div align="center">
 
-  💌 함께 성장하고 싶은 분이라면 언제든 편하게 연락주세요!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kimsua1023&theme=github-compact&hide_border=true&radius=12" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimsua1023&theme=minimal&hide_border=true&radius=12" width="90%" />
+</picture>
 
 </div>
