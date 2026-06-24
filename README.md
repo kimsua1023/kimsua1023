@@ -13,6 +13,26 @@
 </div>
 
 ---
+<svg width="200" height="100" viewBox="0 0 200 100">
+  <!-- 고양이 몸통 단순화 -->
+  <rect id="cat" x="0" y="30" width="60" height="40" rx="10" fill="#8B4513">
+    <animateTransform 
+      attributeName="transform" 
+      type="translate" 
+      values="0 0; 140 0; 0 0" 
+      dur="4s" 
+      repeatCount="indefinite" />
+  </rect>
+  <!-- 다리 움직임 표현 -->
+  <rect x="10" y="70" width="10" height="20" fill="#5D2E0A">
+    <animateTransform 
+      attributeName="transform" 
+      type="rotate" 
+      values="-20 15 70; 20 15 70; -20 15 70" 
+      dur="0.5s" 
+      repeatCount="indefinite" />
+  </rect>
+</svg>
 
 ## 🙋‍♀️ 소개
 
