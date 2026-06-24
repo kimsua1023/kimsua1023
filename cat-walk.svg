@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 60" width="100%" height="60">
+  <style>
+    .cat {
+      font-family: 'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Sans', monospace;
+      font-size: 26px;
+      fill: #555;
+    }
+    @media (prefers-color-scheme: dark) {
+      .cat { fill: #cccccc; }
+    }
+    @keyframes walk {
+      0%   { transform: translateX(-220px); }
+      100% { transform: translateX(900px);  }
+    }
+    @keyframes bob {
+      0%, 100% { transform: translateY(0px); }
+      50%      { transform: translateY(-7px); }
+    }
+    .mover  { animation: walk 10s linear infinite; }
+    .bobber { animation: bob 0.45s ease-in-out infinite; }
+  </style>
+
+  <g class="mover">
+    <g class="bobber">
+      <text class="cat" x="0" y="40">∫(=^‥^=)ノ</text>
+    </g>
+  </g>
+</svg>
