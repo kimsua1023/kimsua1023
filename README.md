@@ -1,16 +1,12 @@
 <div align="center">
 
-# 안녕하세요, 김수아입니다 🐾
+## 김수아 · Backend Developer
 
-백엔드를 공부 중인 학생입니다
+백엔드를 공부 중인 학생 개발자입니다
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Pretendard&size=18&duration=3000&pause=1000&color=6E9EBA&center=true&vCenter=true&width=520&lines=DB+설계와+API+개발을+좋아해요;Java%2C+Node.js+기반으로+백엔드를+공부해요;오늘도+한+줄씩,+꾸준히+성장하는+중이에요+☕" />
-
-<br/><br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=kimsua1023&style=flat-square&label=방문자&color=lightgrey)
+![visitors](https://komarev.com/ghpvc/?username=kimsua1023&style=flat-square&color=lightgrey&label=visitors)
 
 </div>
 
@@ -18,10 +14,10 @@
 
 ## 🙋‍♀️ 소개
 
-- 🌱 Java / Node.js 기반으로 백엔드를 공부하고 있어요
-- 🛠️ DB 설계와 API 개발을 좋아해요
-- 💡 사용자 경험을 생각하는 개발자가 되고 싶어요
-- 📝 오늘 배운 건 기록으로, 막힌 건 질문으로 남겨요
+- Java / Node.js 기반으로 백엔드를 공부하고 있습니다
+- DB 설계와 API 개발에 관심이 많습니다
+- 사용자 경험을 고려하는 개발을 지향합니다
+- 학습한 내용은 기록으로 정리하는 편입니다
 
 ---
 
@@ -70,23 +66,17 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kimsua1023&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kimsua1023&show_icons=true&theme=default&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" width="48%" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsua1023&layout=compact&theme=github_dark&hide_border=true&border_radius=12" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsua1023&layout=compact&theme=default&hide_border=true&border_radius=12" width="40%" />
-</picture>
+![Stats Light](https://github-readme-stats.vercel.app/api?username=kimsua1023&show_icons=true&theme=default&hide_border=true&border_radius=12&include_all_commits=true&count_private=true#gh-light-mode-only)
+![Stats Dark](https://github-readme-stats.vercel.app/api?username=kimsua1023&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&include_all_commits=true&count_private=true#gh-dark-mode-only)
+![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsua1023&layout=compact&theme=default&hide_border=true&border_radius=12#gh-light-mode-only)
+![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsua1023&layout=compact&theme=github_dark&hide_border=true&border_radius=12#gh-dark-mode-only)
 
 </div>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=kimsua1023&theme=github-dark-blue&hide_border=true&border_radius=12" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimsua1023&theme=default&hide_border=true&border_radius=12" width="60%" />
-</picture>
+![Streak Light](https://github-readme-streak-stats.herokuapp.com/?user=kimsua1023&theme=default&hide_border=true&border_radius=12#gh-light-mode-only)
+![Streak Dark](https://github-readme-streak-stats.herokuapp.com/?user=kimsua1023&theme=github-dark-blue&hide_border=true&border_radius=12#gh-dark-mode-only)
 
 </div>
 
@@ -96,9 +86,7 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kimsua1023&theme=github-compact&hide_border=true&radius=12" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimsua1023&theme=minimal&hide_border=true&radius=12" width="90%" />
-</picture>
+![Activity Light](https://github-readme-activity-graph.vercel.app/graph?username=kimsua1023&theme=minimal&hide_border=true&radius=12#gh-light-mode-only)
+![Activity Dark](https://github-readme-activity-graph.vercel.app/graph?username=kimsua1023&theme=github-compact&hide_border=true&radius=12#gh-dark-mode-only)
 
 </div>
